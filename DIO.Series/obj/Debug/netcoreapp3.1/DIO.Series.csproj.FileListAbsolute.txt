@@ -1,0 +1,13 @@
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\workspace\dio.series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\workspace\dio.series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\workspace\dio.series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\workspace\dio.series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\workspace\dio.series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\workspace\dio.series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\workspace\dio.series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
